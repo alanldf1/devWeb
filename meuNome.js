@@ -1,3 +1,7 @@
-const name = "Alan";
+const user = {
+    name: "Alan",
+    age: "19",
+    job: "Developer",
+};
 
-document.body.innerText = name;
+document.body.innerText = JSON.stringify(Object.entries(user));
