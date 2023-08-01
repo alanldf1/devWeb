@@ -4,4 +4,4 @@ const user = {
     job: "Developer",
 };
 
-document.body.innerText = JSON.stringify(Object.entries(user));
+document.body.innerText = JSON.stringify(user);
