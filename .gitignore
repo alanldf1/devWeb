@@ -1,0 +1,10 @@
+# files/
+minhasPendencias.txt
+.buildpath
+.project
+.settings
+.codelite
+*.phprj
+*.workspace
+\.ftpconfig
+.vscode/
